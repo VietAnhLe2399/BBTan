@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1558021938 source:d:\ltnc\robokickfinal\bbtan\draw.cpp
+	"Draw.h"
+
+1558021917 d:\ltnc\robokickfinal\bbtan\draw.h
+	<SDL.h>
+
+1557886261 source:d:\ltnc\robokickfinal\bbtan\main.cpp
+	"Controller.h"
+
+1557938518 d:\ltnc\robokickfinal\bbtan\controller.h
+	<iostream>
+	<SDL.h>
+	<algorithm>
+	<vector>
+	<time.h>
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	"Ball.h"
+	"Brick.h"
+	"BaseObject.h"
+	"textobject.h"
+
+1558057682 d:\ltnc\robokickfinal\bbtan\ball.h
+	"Controller.h"
+	<SDL.h>
+	<cmath>
+	"Draw.h"
+	<vector>
+	"BaseObject.h"
+	"Brick.h"
+
+1558019996 d:\ltnc\robokickfinal\bbtan\baseobject.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<windows.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<cstdio>
+	<iostream>
+
+1540997992 d:\ltnc\robokickfinal\bbtan\sdl2_mixer\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547268290 d:\ltnc\robokickfinal\bbtan\sdl_ttf\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1558020180 d:\ltnc\robokickfinal\bbtan\brick.h
+	<SDL.h>
+	<cmath>
+	"Controller.h"
+	"Draw.h"
+	"BaseObject.h"
+	<iostream>
+
+1557911453 d:\ltnc\robokickfinal\bbtan\textobject.h
+	"BaseObject.h"
+
+1558064831 source:d:\ltnc\robokickfinal\bbtan\ball.cpp
+	"Ball.h"
+
+1557912969 source:d:\ltnc\robokickfinal\bbtan\baseobject.cpp
+	"BaseObject.h"
+
+1557912501 source:d:\ltnc\robokickfinal\bbtan\textobject.cpp
+	"TextObject.h"
+
+1558021946 source:d:\ltnc\robokickfinal\bbtan\brick.cpp
+	"Brick.h"
+
+1558021961 source:d:\ltnc\robokickfinal\bbtan\controller.cpp
+	"Controller.h"
+
